@@ -2,7 +2,14 @@
 <h3 align="center">I'm a frontend developer with a passion for crafting engaging and user-friendly web experiences. 💻✨ I am eager to learn, contribute, and grow alongside the ever-evolving landscape of web technologies.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
+ 🌱 Currently Exploring **I'm diving into MERN stack development, eager to expand my skills and embrace new challenges. Excited to build awesome things with JavaScript! 💻🚀**
+
+- 💬 Ask me **about HTML5,CSS3,JAVASCRIPT**
+
 - 📫 How to reach me **bansi191220@gmail.com**
+
+- ⚡ Fun fact **I bring a blend of creativity and precision to coding.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
