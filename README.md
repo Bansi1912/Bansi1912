@@ -8,10 +8,10 @@
 
 - 📫 How to reach me **bansi191220@gmail.com**
 
-- ⚡ Fun fact **I bring a blend of creativity and precision to coding.
+- ⚡ Fun fact I bring a blend of creativity and precision to coding.
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
